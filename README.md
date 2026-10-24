@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @blacklyger
 - 👀 I’m interested in everything related to computer science and science in general.
 - 💞️ I’m looking to collaborate on cool projects :)
-- 📫 How to reach me: info@blacklyger.com
